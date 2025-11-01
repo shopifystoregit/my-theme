@@ -4,8 +4,8 @@
       "type": "hello-world",
       "settings": {}
     },
-    "big-image-box": {
-      "type": "big-image-box",
+    "left-image": {
+      "type": "left-image",
       "settings": {
         "heading": "Hello World",
         "background_color": "#f0f0f0",
@@ -15,7 +15,7 @@
   },
   "order": [
     "main",
-    "big-image-box"
+    "left-image"
   ]
 }
 
